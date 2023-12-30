@@ -1,4 +1,4 @@
-//Algortimo Counting Sort C++ ver.1
+//Algoritmo Counting Sort C++ ver.2 Pio's Edition
 #include <iostream>
 using namespace std;
 
